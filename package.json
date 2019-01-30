@@ -18,7 +18,9 @@
   "homepage": "https://github.com/123luckybing/koa#readme",
   "dependencies": {
     "koa": "^2.6.2",
+    "koa-bodyparser": "^2.5.0",
     "koa-route": "^3.2.0",
+    "koa-router": "^7.4.0",
     "koa-static": "^5.0.0"
   }
 }
