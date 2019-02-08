@@ -16,7 +16,6 @@ app.use(async (ctx) => {
     ctx.body = 'set cookie success'
   } else {
     ctx.body = 'no cookie';
-    
   }
 });
 
